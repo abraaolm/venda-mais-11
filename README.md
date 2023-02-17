@@ -15,3 +15,19 @@
 12 - na área 'usuarios' é possível criar novos usuarios (atendentes, helpers ou até novos gerentes).
 13 - na área 'grupos' é possível adicionar ou retirar usuarios nos grupos de ' atendentes' e 'helpers', onde é possível limitar seu acesso as funcionalidades do projeto.
 14 - em 'atendimentos' é possível registrar, consultar serviços cadastrados pelos atendentes ou gerentes, ao ir em adicionar será possível adicionar o seu primeiro serviço.
+-----------------------------------------------CRIANDO UM ATENDIMENTO----------------------------------------------------------
+15 - depois de logado, ao ir em 'Atendimento' e 'ADICIONAR ATENDIMENTO' você é redirecionado para a página em que preenche os detalhes do atendimento.
+16 - Para adicionar o atendimento, preencha as informações a seguir:
+ 16.1 - informe o Servico que inclui limpeza simple e profunda.
+ 16.2 - informe qual Atendente cadastrado no site está atendendo.
+ 16.3 - informe qual Helper está executando o serviço.
+ 16.4 - em 'preço', Este campo não é necessário preencher, ao selecionar o serviço ele preenchera automaticamente.
+ 16.5 - informe a forma de pagamento, onde tem disponível 'espécie, cartão de crédito, cartão de débito, PIX e cheque'.
+ 16.6 - informe a 'Data de cadastro'.
+ 16.7 - informe a 'Data do servico'.
+ 16.8 - selecione 'Status' entre 'pendente, realizado ou cancelado'.
+ 16.9 - informe o 'Nome do cliente'.
+ 16.10 - informe o 'Telefone do cliente'.
+ 16.11 - informe o 'Endereço do cliente'.
+ 16.12 - Por fim, com todos os dados obrigatórios preenchidos, click em salvar.
+17 - ao acessar 'Atendimentos' novamente será possível ver o atendimento adicionado e os outros existentes (se houver)
